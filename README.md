@@ -35,11 +35,7 @@ python turtle-ex2.py
 ```bash
 python turtle_smiles.py
 ```
-
 ## Notes
 
 These scripts are ideal for beginners learning Python graphics and can be modified to experiment with different colors, shapes, positions, and motion.
 
-## License
-
-This project is provided for educational purposes.
